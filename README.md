@@ -10,6 +10,12 @@ C# (pronounced "C-sharp") is a modern, object-oriented programming language deve
 
 ## 🏫 Course Information
 
+[Object-Oriented Programming with C#](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)
+
+## Instructor
+
+[Nelio Alves](https://www.linkedin.com/in/nelio-alves?originalSubdomain=br)
+
 ### What You Will Learn
 
 - 🧠 Master Object-Oriented Programming (OOP) and the C# language
